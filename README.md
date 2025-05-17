@@ -19,5 +19,3 @@ I will be using this repository to document my progress.
 - Triton Internals [🔗](https://youtu.be/njgow_zaJMw?si=pdARbxVZ8sOlW-oo)
 - Triton YT Channel [🔗](https://www.youtube.com/@Triton-openai/videos)
 - Triton Kernels 101 [🔗](https://youtu.be/TUQAyCNxFe4?si=8ak0GtcPqAGfCKv0)
-
-Will be adding more as I find them
