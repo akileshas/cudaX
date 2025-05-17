@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-using namespace std;
-
 // create a kernel function
 __global__ void ping() {
     printf("ping from [block: %d](thread: %d)\n", blockIdx.x, threadIdx.x);

@@ -36,3 +36,13 @@ Here are few screen shots of the setup:
 ![setup image](./img/001.png)
 
 I have also executed the first CUDA program (as the tradition itself) which is the hello world program.
+
+To execute the program, use the commands:
+
+```bash
+make run
+```
+
+Output of the executed program:
+
+![output](./img/002.png)
