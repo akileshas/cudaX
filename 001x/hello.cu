@@ -5,7 +5,6 @@ __global__ void ping() {
     printf("ping from [block: %d](thread: %d)\n", blockIdx.x, threadIdx.x);
 }
 
-
 int main() {
     // <<< numBlocks, numThreadsPerBlock >>>
     ping<<<2,5>>>();

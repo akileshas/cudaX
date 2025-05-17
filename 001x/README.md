@@ -1,6 +1,7 @@
 # DAY - 001
 
 Today i have gone through a small introduction about the CUDA and its use cases.
+
 Here are the links to the resources i have gone through:
 
 - [The Current Deep Learning Ecosystem](https://github.com/Infatoshi/cuda-course/blob/master/01_Deep_Learning_Ecosystem/README.md#compilers)
