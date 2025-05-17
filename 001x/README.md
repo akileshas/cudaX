@@ -33,6 +33,6 @@ export LD_LIBRARY_PATH=$CUSPARSELT_PATH/lib:$LD_LIBRARY_PATH
 
 Here are few screen shots of the setup:
 
-[!setup image](./img/001.png)
+![setup image](./img/001.png)
 
 I have also executed the first CUDA program (as the tradition itself) which is the hello world program.
