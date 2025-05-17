@@ -1,5 +1,5 @@
 TARGET = out
-SRC = hello.cpp
+SRC = hello.cu
 
 all:
 	nvcc -arch=sm_86 $(SRC) -o $(TARGET)
