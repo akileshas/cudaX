@@ -4,7 +4,7 @@ It's a log of my journey to learn grind **GPU programming** and study the **PMPP
 
 I will be using this repository to document my progress.
 
-##### Resources for learning CUDA programming:
+#### Resources for learning CUDA programming:
 - PMPP Book: https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311/
 - GPU Mode Lectures: https://www.youtube.com/@GPUMODE
 - Modal GPU Glossary: https://modal.com/gpu-glossary
